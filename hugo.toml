@@ -9,19 +9,19 @@ title = 'inicio'
     [menu.main.params]
       type = "search"
   [[menu.main]]
-    identifier = "VARIOS"
-    name = "VARIOS"
-    url = "/varios/"
+    identifier = "Ley"
+    name = "Ley"
+    url = "/ley/"
     weight = 1
   [[menu.main]]
-    identifier = "PROGRAMACION"
-    name = "PROGRAMACION"
-    url = "/programacion/"
+    identifier = "Jurisprudencia"
+    name = "Jurisprudencia"
+    url = "/jurisprudencia/"
     weight = 2
   [[menu.main]]
-    identifier = "DDHH"
-    name = "DDHH"
-    url = "/ddhh/"
+    identifier = "Doctrina"
+    name = "Doctrina"
+    url = "/doctrina/"
     weight = 3
   [[menu.main]]
     identifier = "Novedades"
