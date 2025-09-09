@@ -35,7 +35,7 @@ title = 'inicio'
     weight = 5
 
 [params]
-  description = "Página Personal"
+  description = "Fuente De Derecho"
   pwa = false # Agrego para testear evitar mensaje emergente 27/8/2025
 
   [params.search]
